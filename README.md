@@ -21,3 +21,27 @@ Execute the following commands to generate the Visual Studio build files.
 ```mkdir build```
 ```cd build```
 ```cmake -G "Visual Studio 15 2017 Win64" -DCMAKE_BUILD_TYPE=Release ..```
+
+## Setting Up GitHub/SSH/Visual Studio Code
+The following link has the general information [Connecting to GitHub with SSH](https://help.github.com/articles/connecting-to-github-with-ssh/).  Execute the
+following steps from this web page.
+- Checking for existing SSH keys
+- Generating a new SSH key and adding it to the ssh-agent
+- Adding a new SSH key to your GitHub account
+- Testing your SSH connection
+
+### Switch to Windows SSH to prevent Authentication Errors
+Once everything has been setup, we need to switch git to use the Windows version
+of OpenSSH in order to make things work properly from a normal command window
+that is used to launch Visual Studio Code.  The instructions on how to do this 
+is document here [Support git with private key password](https://github.com/Microsoft/vscode/issues/13680#issuecomment-414841885).  Here
+is a brief outline of the steps/commands.
+
+- Make Git use the Windows version of OpenSSH
+  - ````git config --global core.sshCommand "C:/Windows/System32/OpenSSH/ssh.exe"````
+- Set the ssh-agent service to run automatically
+  - Open Task Manager, Services tab, click Open Services
+  - Find OpenSSH Authentication Agent, open properties, set Startup Type to Automatic
+  - Also start the service or restart the computer
+- Add your password protected key to the agent
+  - ````ssh-add````
