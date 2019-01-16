@@ -8,6 +8,10 @@
 [GitHub](https://github.com/bpdesilva/CppWebServer) Example application.<br/>
 [GitHub](https://github.com/micwypych/wd-cpp) Example application with JS frontend.
 
+### RestinIo
+[GitHub](https://github.com/Stiffstream/restinio) A header-only C++14 library that gives you an embedded HTTP/Websocket server.<br/>
+[Article](https://www.reddit.com/r/cpp/comments/7mb4iw/transitioning_from_a_nodejs_heavy_backend_to_c/) Reddit discussion link.
+
 ### Boost.Beast
 [GitHub](https://github.com/boostorg/beast) HTTP and WebSocket built on Boost.Asio in C++11.<br/>
 [Web](http://www.boost.org/libs/beast) Documentation.<br/>
