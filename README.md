@@ -34,7 +34,7 @@ following steps from this web page.
 Once everything has been setup, we need to switch git to use the Windows version
 of OpenSSH in order to make things work properly from a normal command window
 that is used to launch Visual Studio Code.  The instructions on how to do this 
-is document here [Support git with private key password](https://github.com/Microsoft/vscode/issues/13680#issuecomment-414841885).  Here
+is document here [VSCode Issue #13680](https://github.com/Microsoft/vscode/issues/13680#issuecomment-414841885).  Below
 is a brief outline of the steps/commands.
 
 - Make Git use the Windows version of OpenSSH
@@ -45,3 +45,5 @@ is a brief outline of the steps/commands.
   - Also start the service or restart the computer
 - Add your password protected key to the agent
   - ````ssh-add````
+
+This seems to work fine with Git for Windows (version 2.20.1).
