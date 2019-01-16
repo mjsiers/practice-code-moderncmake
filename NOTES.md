@@ -18,4 +18,9 @@
 [GitHub](https://github.com/Microsoft/cpprestsdk) Microsoft Cpp REST SDK.<br/>
 [Article1](https://medium.com/audelabs/modern-c-micro-service-implementation-rest-api-b499ffeaf898)<br/>
 [Article2](https://medium.com/audelabs/modern-c-micro-serivce-rest-api-part-ii-7be067440ca8)<br/>
-[ArticleCode](https://github.com/ivanmejiarocha/micro-service)<br/>
+[ArticleCode](https://github.com/ivanmejiarocha/micro-service)
+
+### VCPkg
+[GitHub](https://github.com/Microsoft/vcpkg) Microsoft C++ Library Manager for Windows, Linux, and MacOS<br/>
+[Video](https://github.com/Microsoft/vcpkg)<br/>
+[Docs](https://vcpkg.readthedocs.io/en/latest/)
