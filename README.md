@@ -1,4 +1,4 @@
-# Practice Code: Modern CMake
+# Practice Code Modern CMake
 Delibrate practice project for updating skills on latest versions of CMake.
 
 ## Objectives
