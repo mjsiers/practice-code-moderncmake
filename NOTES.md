@@ -59,7 +59,8 @@
 ### VCPkg
 [GitHub](https://github.com/Microsoft/vcpkg) Microsoft C++ Library Manager for Windows, Linux, and MacOS<br/>
 [Video](https://github.com/Microsoft/vcpkg)<br/>
-[Docs](https://vcpkg.readthedocs.io/en/latest/)
+[Docs](https://vcpkg.readthedocs.io/en/latest/)<br/>
+[PMM](https://github.com/vector-of-bool/pmm) Package Manager Manager.
 
 ### Hunter
 [Docs](https://docs.hunter.sh/en/latest/index.html) C++ Package Manager<br/>
