@@ -41,6 +41,10 @@
 [Article2](https://medium.com/audelabs/modern-c-micro-serivce-rest-api-part-ii-7be067440ca8)<br/>
 [ArticleCode](https://github.com/ivanmejiarocha/micro-service)
 
+### oat++
+[Web](https://oatpp.io/) Performance oriented web-service-development framework.<br/>
+[Github](https://github.com/oatpp/oatpp) Source code.
+
 ### n3rv
 [GitHub](https://github.com/n3rvcpp/n3rv) Microservices framework written in C++ and built on top of zeromq.
 
@@ -82,3 +86,7 @@ Also has a setup for a CMake settings file [Source Link](https://github.com/Micr
 ## Microservices
 ### Python article
 [Python ZeroMQ Docker](https://blog.apcelent.com/how-to-setup-microservices-python-zeromq-docker-example.html).
+
+
+## Awesome CPP
+[Awesome C++ Frameworks List](https://github.com/fffaraz/awesome-cpp)
