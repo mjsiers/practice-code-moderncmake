@@ -44,7 +44,17 @@
 ### Tray
 [GitHub](https://github.com/zserge/tray) Cross-platform, super tiny C99 implementation of a system tray icon with a popup menu.
 
+
+## Interesting C++ Build/Package Manager Tools
 ### VCPkg
 [GitHub](https://github.com/Microsoft/vcpkg) Microsoft C++ Library Manager for Windows, Linux, and MacOS<br/>
 [Video](https://github.com/Microsoft/vcpkg)<br/>
 [Docs](https://vcpkg.readthedocs.io/en/latest/)
+
+### Hunter
+[Docs](https://docs.hunter.sh/en/latest/index.html) C++ Package Manager<br/>
+[Packages](https://docs.hunter.sh/en/latest/packages.html) Current Packages<br/>
+[GitHub](https://github.com/ruslo/hunter) Source code<br/>
+[GitHub](https://github.com/hunter-packages/gate) Gate to Hunter CMake packages<br/>
+[GitHub](https://github.com/forexample/hunter-simple) Simple Hunter example project<br/>
+[Examples](https://github.com/ruslo/hunter/tree/master/examples) Examples
