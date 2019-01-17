@@ -90,3 +90,10 @@ Also has a setup for a CMake settings file [Source Link](https://github.com/Micr
 
 ## Awesome CPP
 [Awesome C++ Frameworks List](https://github.com/fffaraz/awesome-cpp)
+
+
+## CMake C++ Resource Compiler
+[CMakeRC](https://github.com/vector-of-bool/cmrc)<br/>
+[howto-CMakeRC](https://vector-of-bool.github.io/2017/01/21/cmrc.html)<br/>
+[embed-resource](https://github.com/cyrilcode/embed-resource)<br/>
+[mitk](http://docs.mitk.org/2017.07/group__MicroServicesCMake.html#ga40f3441d51b7de932405454bb3b25ac2)
