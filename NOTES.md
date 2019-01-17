@@ -41,6 +41,12 @@
 [Article2](https://medium.com/audelabs/modern-c-micro-serivce-rest-api-part-ii-7be067440ca8)<br/>
 [ArticleCode](https://github.com/ivanmejiarocha/micro-service)
 
+### n3rv
+[GitHub](https://github.com/n3rvcpp/n3rv) Microservices framework written in C++ and built on top of zeromq.
+
+### Async++
+[GitHub](https://github.com/Amanieu/asyncplusplus) Lightweight concurrency framework for C++11.
+
 ### Tray
 [GitHub](https://github.com/zserge/tray) Cross-platform, super tiny C99 implementation of a system tray icon with a popup menu.
 
@@ -58,3 +64,21 @@
 [GitHub](https://github.com/hunter-packages/gate) Gate to Hunter CMake packages<br/>
 [GitHub](https://github.com/forexample/hunter-simple) Simple Hunter example project<br/>
 [Examples](https://github.com/ruslo/hunter/tree/master/examples) Examples
+
+
+## Interesting C++ Library From Microsoft
+### XLang
+[GitHub](https://github.com/Microsoft/xlang) Create APIs that can run on multiple platforms and languages.<br/>
+[Web](https://kennykerr.ca/) Kenny Kerr website.<br/>
+[Web](https://moderncpp.com/) Modern C++/WinRT website.<br/>
+[Github](https://github.com/kennykerr/cppwinrt) Modern C++/WinRT source.
+
+This project is using the **Design Notes** concept.  Look at the following link for more details.
+[Design Note Process](https://github.com/Microsoft/xlang/blob/master/design_notes/XDN00%20-%20Design%20Note%20Process.md).
+Also has a setup for a CMake settings file [Source Link](https://github.com/Microsoft/xlang/tree/master/src).
+[CMakeSettings](https://github.com/Microsoft/CmakeSettings).
+
+
+## Microservices
+### Python article
+[Python ZeroMQ Docker](https://blog.apcelent.com/how-to-setup-microservices-python-zeromq-docker-example.html).
