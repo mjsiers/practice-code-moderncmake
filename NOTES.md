@@ -51,6 +51,21 @@
 ### Async++
 [GitHub](https://github.com/Amanieu/asyncplusplus) Lightweight concurrency framework for C++11.
 
+### Linq
+[GitHub](https://github.com/pfultz2/Linq) Linq for list comprehension in C++.
+
+### JSON for Modern C++
+[GitHub](https://github.com/nlohmann/json) JSON for Modern C++.<br/>
+[Docs](https://nlohmann.github.io/json/) Documentation link.<br/>
+[Performance](https://github.com/miloyip/nativejson-benchmark/blob/master/README.md) Benchmarks of several JSON libraries.
+[Articles](https://preshing.com/20180116/a-primitive-reflection-system-in-cpp-part-1/) JSON and c++ object articles.
+
+### ZeroMQ/RxCpp Links
+[GitHub](https://github.com/zeromq/zyre) Zyre.<br/>
+[GitHub](https://github.com/ReactiveX/RxCpp) RxCpp.<br/>
+[GitHub](https://github.com/d-led/zeromq_rxcpp_example) ZeroMq and RxCpp simple example.<br/>
+[Article](http://kirkshoop.github.io/async/rxcpp/c++/2015/08/04/rxcpp_-_moderncpp_events_as_observables.html).
+
 ### Tray
 [GitHub](https://github.com/zserge/tray) Cross-platform, super tiny C99 implementation of a system tray icon with a popup menu.
 
